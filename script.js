@@ -1,8 +1,8 @@
-const botãoAbrir = document.querySelector(".header-mobile > button")
-const botãoFechar = document.querySelector(".header-mobile nav button")
+const botãoAbrir = document.querySelector(".header > button")
+const botãoFechar = document.querySelector(".header nav button")
 
 const body = document.querySelector("body")
-const nav = document.querySelector(".header-mobile nav")
+const nav = document.querySelector(".header.mobile")
 
 console.log(body)
 
