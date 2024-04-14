@@ -77,8 +77,10 @@ margin-bottom: 2rem;
     padding: 1.5rem 1.1rem;
 }
 
-.bb {
+.margin-border-padding {
     border-bottom: 1px solid var(--gunmetal);
+    margin-bottom: 1.75rem;
+    padding-bottom: 1.75rem;
 }
 
 .mb {
@@ -107,3 +109,5 @@ font-weight: 800;
     font-size: 0.9375rem;
     line-height: 1.625rem;
 }
+
+.terceira-seção
